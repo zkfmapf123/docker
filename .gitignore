@@ -1,0 +1,3 @@
+docker-compose/node_modules
+docker-images/node_modules
+docker-volume/node_modules
